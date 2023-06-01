@@ -23,7 +23,7 @@
 # - frear(): um método que imprime uma mensagem dizendo que o carro está freando.
 
 
-class Carro:
+class Carro2:
     def __init__(self, marca, modelo, ano, cor, combustivel):
         self.marca = marca
         self.modelo = modelo
